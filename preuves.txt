@@ -1,0 +1,18 @@
+PS C:\Users\DELL\Documents\depart (3)> node depenses.js
+dépenses initiales avant le tri : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+dépenses originales après le tri de la copie : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+dépenses triées : [
+     0, 1000, 1500,
+  2500, 2500, 3000,
+  4000
+]
+total : 14500 FCFA
+moyenne : 2071.4285714285716 FCFA/jour
